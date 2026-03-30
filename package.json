@@ -1,0 +1,14 @@
+{
+  "name": "karni-jewellery",
+  "version": "1.0.0",
+  "description": "Karni Jewellery - Armenian Ornamental Jewelry",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
